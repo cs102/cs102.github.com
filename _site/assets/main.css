@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica, Arial,  serif;
   color: #46433A;
-  background-color: #F1EED9;
+  background-color: cornsilk;
   line-height: 1.6em;
   font-size: 1.1em; }
 
@@ -51,7 +51,7 @@ since it must be aligned with the content */
   background-size: cover;
   border-radius: 50%;
   -moz-border-radius: 50%;
-  border: 2px solid #F1EED9;
+  border: 2px solid cornsilk;
   box-shadow: 0 0 0 3px #46433A; }
 
 /*** author ***/
@@ -59,7 +59,8 @@ since it must be aligned with the content */
   font-size: 2.8em;
   margin-top: 0;
   margin-bottom: 0;
-  text-align: center; }
+  text-align: center;
+  line-height: 1em; }
 
 /*** tagline ***/
 .tagline-container p {

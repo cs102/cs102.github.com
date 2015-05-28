@@ -3,7 +3,7 @@
 
 $text-color: #46433A;
 $anchor-text-color: #CE534D;
-$background-color: #F1EED9;
+$background-color: cornsilk;
 
 body {
 	font-family: Helvetica, Arial,  serif;
@@ -78,6 +78,7 @@ since it must be aligned with the content */
 	margin-top: 0;
 	margin-bottom: 0;
 	text-align: center;
+	line-height: 1em;
 }
 
 /*** tagline ***/
